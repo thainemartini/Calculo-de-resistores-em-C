@@ -1,2 +1,2 @@
-# Calculo-de-resistores-em-C
+# Calculo-de-resistores
 Programa em C, para calculo de resistores em série e em paralelo  
